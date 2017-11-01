@@ -1,0 +1,9 @@
+Manage conda environments from CMD - https://conda.io/docs/test-drive.html#managing-conda
+
+Numpy - https://docs.scipy.org/doc/numpy/reference/arrays.indexing.html#arrays-indexing
+
+to make anaconda oython the default python - http://stackoverflow.com/questions/26318995/installing-numpy-via-anaconda-in-windows
+
+Markdown Jupyter cheatsheet-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+Jupyter magic keywords - http://ipython.readthedocs.io/en/stable/interactive/magics.html
